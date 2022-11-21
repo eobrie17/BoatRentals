@@ -3,7 +3,7 @@ This is a program written in C++ to help a rental boat company keep track of the
 
 Background:
 
-In the summers I used to work on at a rental company on Lake Winnipesaukee who kept all of their rentals on paper in a binder. We often ran into trouble with double booking people or losing customer information. I always had the thought that it would be so much easier for them if there was a system online that they could put the customer information in and check to see what boats are available. So this is what I made to try to prevent all of this human error. 
+In the summers, I used to work on at a rental company on Lake Winnipesaukee who kept all of their rentals on paper in a binder. We often ran into trouble with double booking people or losing customer information. I always had the thought that it would be so much easier for them if there was a system online that they could put the customer information in and check to see what boats are available. So this is what I made to try to prevent all of this human error. 
 
 
 Program walkthrough:
